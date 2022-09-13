@@ -1,0 +1,22 @@
+.pinkish-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.price{
+    color: #ff136f;
+    margin-bottom: 20px;
+}
+.b-buttons{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 8px;
+    background-image:linear-gradient(to bottom, #ff5e9c 0%,  #ff0364 100%);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
