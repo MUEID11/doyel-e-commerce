@@ -61,10 +61,28 @@ main{
     margin-top: 100px;
     
 }
-#Subscribe h6{
+#Subscribe h4{
     color:gray;
+    padding-bottom:10px;
+}
+input{
+    border-radius:  8px 0 0 8px;
+    border: none;
+    width: 255px;
+    height: 48px;
 }
 .copyright{
     margin-top: 100px;
+    margin-bottom: 20px;
+}
+.b-buttons{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    background-image:linear-gradient(to bottom, #ff5e9c 0%,  #ff0364 100%);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
 }
 
