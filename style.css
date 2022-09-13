@@ -20,3 +20,51 @@
     font-weight: 600;
     cursor: pointer;
 }
+main{
+    margin-top: 100px;
+}
+.cate1, .cate2, .cate3{
+    padding: 10px 30px;
+    border-radius: 10px;   
+}
+.cate1{
+   
+    background-image: linear-gradient(to left, rgb(4, 252, 198) 0%, rgb(74, 234, 249) 100%);
+}
+.cate2{
+    background-image: linear-gradient(to left, rgb(4, 54, 252) 0%, rgb(74, 156, 249) 100%);
+}
+.cate3{
+    background-image: linear-gradient(to left,  #ff0364 0%, #ff5e9c 100%);
+}
+.categories img{
+    width: 150px;
+}
+.shoes{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.bag{
+    margin-top: 100px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+#Subscribe{
+    height: 300px;
+    border: none;
+    border-radius:0%;
+    margin-top: 100px;
+    
+}
+#Subscribe h6{
+    color:gray;
+}
+.copyright{
+    margin-top: 100px;
+}
+
